@@ -8,4 +8,4 @@ Anterior à programação,experiência profissional na área de Promotor de Vend
  
  Tel:013988741500
  
- Email:thiagolps55@gmail.com
+<a href="mailto:thiagolps55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
