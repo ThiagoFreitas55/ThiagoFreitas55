@@ -5,7 +5,7 @@ Seja muito Bem Vindo! Eu sou o Thiago Freiats sou um Profissional Desenvolvedor 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-Bootstrap.
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 
 Anterior à programação,experiência profissional na área de Promotor de Vendas com a função principal de organizar,fiscalizar e expor o produtos de uma melhor forma , na qual exigido habilidades de resolução de problemas, trabalho em equipe e boa comunicação interdisciplinar com objetivo de garantir a disponibilidade e confiabilidade dos produtos da empresas para atender os consumidores 
 
