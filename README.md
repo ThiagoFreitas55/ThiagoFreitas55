@@ -3,6 +3,7 @@ Olá! Eu sou Thiago! 👋visitantes
 Seja muito Bem Vindo! Eu sou o Thiago Freiats sou um Profissional Desenvolvedor Front End. Cursando Engenharia da Computação. Em transição de carreira para a área de tecnologia (Desenvolvedor Front End).Cursando a formação Desenvolvimento full strack pelo DevClub. Trabalho com desenvolvimento,aprimoramento e manutenção de sistemas Web utilizando tecnologias 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 Bootstrap.
 
