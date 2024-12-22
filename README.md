@@ -14,3 +14,6 @@ Anterior à programação,experiência profissional na área de Promotor de Vend
  <a href="https://w.app/jBoEa3"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-do-whatsapp"></a>
  
 <a href="https://mail.google.com/mail/u/0/#chats"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br>
+<br>
+<img src="	https://github-readme-stats.vercel.app/api?username={ThiagoFreitas55}&theme=blue-green"/>
